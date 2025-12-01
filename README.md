@@ -1,5 +1,4 @@
 # User Story Best Practice documentation and presentation
-[documentation site](http://awkale.me/user-story-best-practice/)
 
 ## Version (theme) vs Epic vs user story vs task
 Agile development uses four clear delivery methods to bring structure to any project: **versions**, **sprints**, **epics** and **user stories**.
@@ -89,17 +88,6 @@ Agile development uses four clear delivery methods to bring structure to any pro
   * Add issue to epic - via backlog agile board or when viewing story
   * take advantage of Jira's text formatting for easy to follow descriptions
 
-## Examples of best in class and ineffective user stories
-  * [epic - As a customer of PR Newswire, I would like a new news release template for my thought leadership content](https://prnewswire.jira.com/browse/PRNCOM-4564)
-    * [story - As a user I want to be able to see that there is more information below the cropping of an infographic so that it is easier to know that it should be enlarged](https://prnewswire.jira.com/browse/PRNCOM-4869)
-  * [UX wireframes](https://prnewswire.jira.com/browse/CNW-58)
-  * Agility: [Epic-Display Audience Data Within Agility](https://prnewswire.jira.com/browse/CWP-6196)
-   *[story - As a monitoring user, I would like to see mentions with ComScore audience data available within my results, so that I can qualify the message based on reach of the outlet.](https://prnewswire.jira.com/browse/CWP-6297)
-   * [story - As an Agility user, I would like to be able to construct a people search using the audience score for the outlets they work for, so I can better isolate influencers.] (https://prnewswire.jira.com/browse/CWP-6207)
-  * Visibility Reports: Earned Media, International Release Consolidation
-   * (Too technical)[Earned Media Pickup processing and analysis](https://prnewswire.jira.com/browse/VREP-3474)
-   * (As a wire customer I want to understand the full value and impact of a PRN distribution so my purchase decision is validated)[https://prnewswire.jira.com/browse/VREP-2674]
-
 ## IN-SESSION EXERCISE YOU'LL LEAD:
 * Break into groups of 2-3
 * Present feature
@@ -110,6 +98,5 @@ Agile development uses four clear delivery methods to bring structure to any pro
 
 This documentation is currently maintained by Akshita Mary John, a Product Owner with 3+ years of experience in leading product strategy, defining roadmaps, and translating customer and business needs into actionable features. Akshita is passionate about Agile methodologies and driving product development from concept to release.
 
-- **GitHub:** [github.com/AnanditaNagpal](https://github.com/AnanditaNagpal)
 - **LinkedIn:** [Akshita Mary John](https://www.linkedin.com/in/akshita-mary-john-35542a12a/)
 - **Email:** a.john1009@gmail.com
